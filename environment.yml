@@ -1,0 +1,13 @@
+name: AI_Spending_Insights_test
+channels:
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pandas
+  - sqlite
+  - pip
+  - pip:
+      - langchain
+      - matplotlib

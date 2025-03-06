@@ -1,0 +1,33 @@
+# Ignore Python cache/bytecode
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore common virtual environment directories
+venv/
+env/
+.venv/
+
+# Ignore environment variable/config files
+.env
+*.env
+
+# Ignore any SQLite database files (if applicable)
+*.sqlite3
+*.db
+
+# Ignore your OpenAI credentials file
+openai_key.py
+
+# Ignore any compiled files
+alternatives.py
+
+# Ignore docx files
+Data_Scientist_-_GenAI_Technical_Test.docx
+
+# Ignore all PowerPoint files and csv files
+*.pptx
+*.ppt
+*.csv
