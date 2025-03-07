@@ -3,3 +3,4 @@ matplotlib
 langchain
 openai
 notebook
+jupyter
