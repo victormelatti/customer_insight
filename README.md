@@ -112,7 +112,7 @@ A PASSED TEST? column is created showing True/False for each test and a % of suc
 - The **first available transaction date** in the database is dynamically set as the fallback `start_date`.
 
 ## 📌 Future Improvements
-The notebook contains notes regarding future work on 
+The notebook contains notes regarding future work on:
 - Fast Inference 
 - Scalability 
 
