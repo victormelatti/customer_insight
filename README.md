@@ -113,7 +113,7 @@ A PASSED TEST? column is created showing True/False for each test and a % of suc
 
 ## 📌 Future Improvements
 The notebook contains notes regarding future work on 
-    - Fast Inference 
-    - Scalability 
+- Fast Inference 
+- Scalability 
 
 
